@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .btn {
+        @apply px-12 py-2 bg-indigo-300 text-white text-2xl font-bold hover:bg-red-500
+    }
+}

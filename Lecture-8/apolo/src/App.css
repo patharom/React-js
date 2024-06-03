@@ -1,0 +1,20 @@
+.vv{
+    background-color: brown;
+}
+
+.vv:hover{
+    background-color: cyan;
+    color:black;
+}
+
+.h1{
+    background-color: darkorange;
+    font-family: sans-serif;
+    font-weight: 3000px;
+    text-decoration: underline;
+}
+
+.h1:hover{
+    background-color: darkred;
+    color: black;
+}
