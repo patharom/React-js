@@ -18,7 +18,7 @@ const mapStateToProps = (state) => {
     numofcake: state.numofcake,
   };
 };
-
+                             
 const mapDispatchToProps = (dispatch) => {
   return {
     buy_cake: () => dispatch(buy_cake()),
